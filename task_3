@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="net.css">
+    <title>Netflix Clone</title>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN4AAAB9CAMAAAD6MS3FAAAAb1BMVEUQEBDlCRMAEBDqCRMNEBATEBC6CxIGEBCODRLfCRTACxIpDxA/EBHhChMmDxEYEBCxCxI6DxBrDhDZChPvCBMfEBBdDxFJDxBxDhHTChP2CBOjDRIwDxDGCxPMCxNYDxBkDhGDDRKZDRJSDxB8DhII3cg0AAAEY0lEQVR4nO2Z25aqMAxAS1qpXFSUoiJ49/+/8SSFIuCMutY51vOQ/TBTSwfYpjQNIwTDMAzDMAzDMAzDMAzDMAzDMAzDMAzDMAzDMAzDME9QyLip+ow/P/a4z+PTKjE6Mh70edQE0aprCtU2OsafJxM16sHPovk9PC2dSyzsBWyfnoxGfR4IwzCe0uXhGGN7C9iihiPbgKr6HXFVQB0ORxR2BNzt6gwHXkDo1A7R9ku74KD9Gn6/mX+OAiOlyQu8PKyoOSU9bHQEa4B9v8McEkjlcERiR9xvXC8DHBiDUHM6YuyXtrR/nWivejIIAnOiy6+wKa0e9TlmqBf3O+RhDums1xEdIbEj+noRDqRwwlnalhJQGWxVPoPn9EKYPNHTf6Gn6xyP5EfQi5kM5Oz6Bb0gWOgHvXbqNXqyFaSefafXjHiqJyBrTgtTG0a/K0urR1ZDPZkVor9OCmuQg10QrZ7MwK2c6pnehuZkWcz3NOTmNXidXqzUWA/TRS+r6TkZRGB7nJ7Le8/0BBzwmNnYs5fgN++5yZlfYay3GKbpVs9+cHrdwad6Z7uk0MJi12WfOD288Mf0NrlblALhe9PS6snD5FN6SmduXfKbFcRdLzDpWA8s3XbxUa9qRsALPQE3l2NO39OrRnplRoSJ+k0PbxcJyo1+oaegbIKXac9z866Ha/4w77U7sFr/rmfvOd/ACz0Bl2Z53voOXqsX0dVPpx92LfKVXvCOXr1rvkDfwWv0ZFbSj0e9F9Fr9iyv9VST+nxnBdHp4eyRh/NQb5Yj0RO9PIyRLH317FGtYLcO34pemGLODaqgv7SE1xTZTNzAHxKDniOFeLVy4rbT2MmQfufZk2HhaoJeYhC06HfF2Y95j3Zk5P8iMdTfSntOT0/Ng96/SuvC1gp261D7LGXtjbV66+hjejrZu6XqO2kdqzBXsX5iz7mlmTELmunsR6u7sUZv0U2gvh4WSd3j95Zet0sb6MU2K9jpUXienZ1e/aBHbvN0varVu3pVNT1vT8elGpSztQ1eTaunOX+jIEI91b4uuue9qAzMDpHNm7t39IxltyvU+GWEucDpGxuXu97NDPWCdj2Yva/n9jp9PVhStRetIaGdi+/FpdPT9WykF4z1DO7AnB7t197Ta94gaWX31b5TX6enlC0678+erReMkZ1eddjv20ym6wqLpfuDRAcPZZnnFFRjSA+DT3q6tkFbAYaR1MuN/xeBpNcWnY3ebjfLD3GWXabn27ZuH5eiUODuTbcrZHeaol6mm+vxtNrezueJUnVc5vSWGm479IzokQNKf8ZvUdToxaSXltgs6U2dTpd1Ml9M1LBef/b/HaU1dNA/FIp5Uif0pYX7XNo4wwrLIrn3rGdkEFEKV/qaLtqQaK2fyrxzYqVsbQ5dnFWBEZU7v/tquNxWlKnsnXwo6Sph6w6VbNbb6dFz+OBjWmO0x2sxDMMwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDMMwDPM/8gfkNEUA0CUD+QAAAABJRU5ErkJggg==" alt="Netflix Logo">
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">TV Shows</a></li>
+                    <li><a href="#">Movies</a></li>
+                    <li><a href="#">Latest</a></li>
+                    <li><a href="#">My List</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero content">
+            <h1>Welcome to Netflix</h1>
+            <p>Watch unlimited movies and TV shows.</p>
+            <button class="cta-button">Sign Up</button>
+        </div>
+    </section>
+
+    <!-- Content Section (Movie/TV Show Thumbnails) -->
+    <section class="content">
+        <!-- Add movie/TV show thumbnails here -->
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Netflix Clone</p>
+    </footer>
+</body>
+</html>
